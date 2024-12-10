@@ -1,0 +1,23 @@
+# Site Vitre Architecte d'Intérieur
+## Technologies utilisées
+- **HTML5** : Structure de la page
+- **CSS3** : Style et mise en page
+- **JavaScript** : Interactivité et animations
+
+## Réalisé par
+BERTHE Théophile
+
+## Pour lancer le projet
+
+1. Clonez le dépôt Git :
+
+   ```bash
+   git clone https://github.com/votre-utilisateur/votre-repository.git
+
+2. Ouvrez le projet dans votre éditeur de code
+
+3. Lancez le projet en utilisant l extension Live Server dans VS Code 
+Cliquez sur Go Live dans le coin inférieur droit de VS Code.
+Le site sera accessible localement via http://127.0.0.1:5500 ou une adresse similaire dans votre navigateur.
+
+ENJOY
